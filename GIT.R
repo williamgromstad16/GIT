@@ -62,7 +62,6 @@ smallgame2 <- pivot_longer(smallgame,
 install.packages("palmerpenguins")
 library(palmerpenguins)
 
-penguins <- penguins
 
 
 
