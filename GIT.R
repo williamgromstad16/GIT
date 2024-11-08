@@ -58,10 +58,6 @@ smallgame2 <- pivot_longer(smallgame,
 ## Styler takes all the lintr issues and fixes them for you
 
 
-## Making a function
-install.packages("palmerpenguins")
-library(palmerpenguins)
-
 
 
 
